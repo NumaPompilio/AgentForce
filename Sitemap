@@ -1,0 +1,99 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Warranty -->
+  <url>
+    <loc>https://www.timberland.com/en-us/customer-care/warranties/is-my-item-under-warranty</loc>
+  </url>
+  <url>
+    <loc>https://www.timberland.com/en-us/customer-care/warranties/what-does-your-watch-warranty-cover</loc>
+  </url>
+
+  <!-- Account -->
+  <url>
+    <loc>https://www.timberland.com/en-us/customer-care/manage-account/how-do-i-manage-my-account</loc>
+  </url>
+  <url>
+    <loc>https://www.timberland.com/en-us/customer-care/manage-account/how-do-i-use-favorites</loc>
+  </url>
+
+  <!-- Returns -->
+  <url>
+    <loc>https://www.timberland.com/en-us/customer-care/returns/free-return-policy</loc>
+  </url>
+  <url>
+    <loc>https://www.timberland.com/en-us/customer-care/returns/how-do-i-return-items</loc>
+  </url>
+  <url>
+    <loc>https://www.timberland.com/en-us/customer-care/returns/start-a-return</loc>
+  </url>
+
+  <!-- Exchange -->
+  <url>
+    <loc>https://www.timberland.com/en-us/customer-care/returns/do-you-accept-exchanges</loc>
+  </url>
+  <url>
+    <loc>https://www.timberland.com/en-us/customer-care/returns/exchanges</loc>
+  </url>
+
+  <!-- Promo Code (How to Redeem) -->
+  <url>
+    <loc>https://www.timberland.com/en-us/customer-care/promotions-and-discounts/how-do-i-redeem-promo-discount-codes</loc>
+  </url>
+
+  <!-- Current Promos -->
+  <url>
+    <loc>https://www.timberland.com/en-us/customer-care/promotions-and-discounts/military-discount-program</loc>
+  </url>
+  <url>
+    <loc>https://www.timberland.com/en-us/customer-care/promotions-and-discounts/teacher-and-students-discount-program</loc>
+  </url>
+  <url>
+    <loc>https://www.timberland.com/en-us/customer-care/promotions-and-discounts/healthcare-discount-program</loc>
+  </url>
+  <url>
+    <loc>https://www.timberland.com/en-us/customer-care/promotions-and-discounts/first-responder-discount-program</loc>
+  </url>
+
+  <!-- Timberland Community -->
+  <url>
+    <loc>https://www.timberland.com/en-us/timberland-community</loc>
+  </url>
+
+  <!-- Out of Stock -->
+  <url>
+    <loc>https://www.timberland.com/en-us/customer-care/product-faqs/will-out-of-stock-items-come-back</loc>
+  </url>
+
+  <!-- Shipping Options -->
+  <url>
+    <loc>https://www.timberland.com/en-us/customer-care/delivery/buy-online-pickup-in-store-and-curbside-delivery</loc>
+  </url>
+  <url>
+    <loc>https://www.timberland.com/en-us/customer-care/delivery/do-you-ship-internationally</loc>
+  </url>
+  <url>
+    <loc>https://www.timberland.com/en-us/customer-care/delivery/do-you-ship-to-canada</loc>
+  </url>
+  <url>
+    <loc>https://www.timberland.com/en-us/customer-care/delivery/how-do-i-ship-my-order-to-a-store</loc>
+  </url>
+  <url>
+    <loc>https://www.timberland.com/en-us/customer-care/delivery/how-do-you-ship-how-much-does-it-cost</loc>
+  </url>
+  <url>
+    <loc>https://www.timberland.com/en-us/customer-care/delivery/what-is-your-shipping-policy</loc>
+  </url>
+
+  <!-- Size Chart -->
+  <url>
+    <loc>https://www.timberland.com/en-us/customer-care/size-chart</loc>
+  </url>
+
+  <!-- Damaged Package -->
+  <url>
+    <loc>https://www.timberland.com/en-us/customer-care/returns/my-order-has-shipping-damage-what-can-i-do</loc>
+  </url>
+
+</urlset>
