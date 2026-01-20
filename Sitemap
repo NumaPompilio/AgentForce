@@ -1,99 +1,149 @@
 
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-  <!-- Warranty -->
-  <url>
-    <loc>https://www.timberland.com/en-us/customer-care/warranties/is-my-item-under-warranty</loc>
-  </url>
-  <url>
-    <loc>https://www.timberland.com/en-us/customer-care/warranties/what-does-your-watch-warranty-cover</loc>
-  </url>
-
-  <!-- Account -->
-  <url>
-    <loc>https://www.timberland.com/en-us/customer-care/manage-account/how-do-i-manage-my-account</loc>
-  </url>
-  <url>
-    <loc>https://www.timberland.com/en-us/customer-care/manage-account/how-do-i-use-favorites</loc>
-  </url>
-
-  <!-- Returns -->
-  <url>
-    <loc>https://www.timberland.com/en-us/customer-care/returns/free-return-policy</loc>
-  </url>
-  <url>
-    <loc>https://www.timberland.com/en-us/customer-care/returns/how-do-i-return-items</loc>
-  </url>
-  <url>
-    <loc>https://www.timberland.com/en-us/customer-care/returns/start-a-return</loc>
-  </url>
-
-  <!-- Exchange -->
-  <url>
-    <loc>https://www.timberland.com/en-us/customer-care/returns/do-you-accept-exchanges</loc>
-  </url>
-  <url>
-    <loc>https://www.timberland.com/en-us/customer-care/returns/exchanges</loc>
-  </url>
-
-  <!-- Promo Code (How to Redeem) -->
-  <url>
-    <loc>https://www.timberland.com/en-us/customer-care/promotions-and-discounts/how-do-i-redeem-promo-discount-codes</loc>
-  </url>
-
-  <!-- Current Promos -->
-  <url>
-    <loc>https://www.timberland.com/en-us/customer-care/promotions-and-discounts/military-discount-program</loc>
-  </url>
-  <url>
-    <loc>https://www.timberland.com/en-us/customer-care/promotions-and-discounts/teacher-and-students-discount-program</loc>
-  </url>
-  <url>
-    <loc>https://www.timberland.com/en-us/customer-care/promotions-and-discounts/healthcare-discount-program</loc>
-  </url>
-  <url>
-    <loc>https://www.timberland.com/en-us/customer-care/promotions-and-discounts/first-responder-discount-program</loc>
-  </url>
-
-  <!-- Timberland Community -->
-  <url>
-    <loc>https://www.timberland.com/en-us/timberland-community</loc>
-  </url>
-
-  <!-- Out of Stock -->
-  <url>
-    <loc>https://www.timberland.com/en-us/customer-care/product-faqs/will-out-of-stock-items-come-back</loc>
-  </url>
-
-  <!-- Shipping Options -->
-  <url>
-    <loc>https://www.timberland.com/en-us/customer-care/delivery/buy-online-pickup-in-store-and-curbside-delivery</loc>
-  </url>
-  <url>
-    <loc>https://www.timberland.com/en-us/customer-care/delivery/do-you-ship-internationally</loc>
-  </url>
-  <url>
-    <loc>https://www.timberland.com/en-us/customer-care/delivery/do-you-ship-to-canada</loc>
-  </url>
-  <url>
-    <loc>https://www.timberland.com/en-us/customer-care/delivery/how-do-i-ship-my-order-to-a-store</loc>
-  </url>
-  <url>
-    <loc>https://www.timberland.com/en-us/customer-care/delivery/how-do-you-ship-how-much-does-it-cost</loc>
-  </url>
-  <url>
-    <loc>https://www.timberland.com/en-us/customer-care/delivery/what-is-your-shipping-policy</loc>
-  </url>
-
-  <!-- Size Chart -->
-  <url>
-    <loc>https://www.timberland.com/en-us/customer-care/size-chart</loc>
-  </url>
-
-  <!-- Damaged Package -->
-  <url>
-    <loc>https://www.timberland.com/en-us/customer-care/returns/my-order-has-shipping-damage-what-can-i-do</loc>
-  </url>
-
+  <url><loc>https://www.timberland.com/en-us/collections/leather-boots</loc></url>
+  <url><loc>https://www.timberland.com/en-us/timberlandpro</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/contact-us</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/product-faqs/how-to-wear-ankle-boots-for-women</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care</loc></url>
+  <url><loc>https://www.timberland.com/en-us/legal/patents</loc></url>
+  <url><loc>https://www.timberland.com/en-us/releases</loc></url>
+  <url><loc>https://www.timberland.com/en-us/collections/waterproof-boots</loc></url>
+  <url><loc>https://www.timberland.com/en-us/mens</loc></url>
+  <url><loc>https://www.timberland.com/en-us/contact-us?icid=helpcenter</loc></url>
+  <url><loc>https://www.timberland.com/en-us/womens</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/product-faqs/how-to-choose-the-best-hiking-boots</loc></url>
+  <url><loc>https://www.timberland.com/en-us/timberland-community</loc></url>
+  <url><loc>https://www.timberland.com/en-us/store-locator</loc></url>
+  <url><loc>https://www.timberland.com/en-us/forgot-password</loc></url>
+  <url><loc>https://www.timberland.com/en-us/about-us</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/product-faqs/how-to-make-work-boots-more-comfortable</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/payments</loc></url>
+  <url><loc>https://www.timberland.com/en-us/gift-card-page</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/gift-cards</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/order-info</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/warranties</loc></url>
+  <url><loc>https://www.timberland.com/en-us/sign-in</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/privacy-policy</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/manage-account</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/returns/track-a-return</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/returns/return-refund-status</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/returns/how-do-i-return-items</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/returns/exchanges</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/returns/free-return-policy</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/returns/start-a-return</loc></url>
+  <url><loc>https://www.timberland.com/en-us/responsibility/product</loc></url>
+  <url><loc>https://www.timberland.com/en-us/responsibility</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/returns/my-order-has-shipping-damage-what-can-i-do</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/returns/timberland-pro-30-day-comfort-guarantee</loc></url>
+  <url><loc>https://www.timberland.com/en-us/legal/community-terms-of-use</loc></url>
+  <url><loc>https://www.timberland.com/en-us/ghostbusters</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/size-chart</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/promotions-and-discounts/military-discount</loc></url>
+  <url><loc>https://www.timberland.com/en-us/blog</loc></url>
+  <url><loc>https://www.timberland.com/en-us/legal/terms-of-use</loc></url>
+  <url><loc>https://www.timberland.com/en-us/exclusions/product-exclusions</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/exclusions/product-exclusions</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/returns/do-you-accept-exchanges</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/delivery/what-is-your-shipping-policy</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/delivery/how-do-you-ship-how-much-does-it-cost</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/promotions-and-discounts</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/product-faqs/how-to-choose-the-best-snow-boots</loc></url>
+  <url><loc>https://www.timberland.com/en-us/releases/white-mountaineering-spring-24</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/product-faqs/how-to-wear-hiking-boots</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/product-faqs/which-are-the-warmest-winter-boots</loc></url>
+  <url><loc>https://www.timberland.com/en-us/promotions</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/product-faqs/how-to-wear-boots-in-summer-for-men</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/warranties/boa-warranty</loc></url>
+  <url><loc>https://www.timberland.com/en-us/timberlandpro/safety-toe-boots</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/promotions-and-discounts/student-discount</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/warranties/warranty-form</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/promotions-and-discounts/healthcare-workers</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/promotions-and-discounts/first-responder-discount-program</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/promotions-and-discounts/teacher-and-students-discount-program</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/warranties/is-my-item-under-warranty</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/promotions-and-discounts/first-responder</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/promotions-and-discounts/healthcare-discount-program</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/promotions-and-discounts/teacher-discount</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/promotions-and-discounts/how-do-i-redeem-promo-discount-codes</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/promotions-and-discounts/do-you-price-match</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/promotions-and-discounts/military-discount-program</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/what-is-the-timberland-community</loc></url>
+  <url><loc>https://www.timberland.com/en-us/yellow-boot</loc></url>
+  <url><loc>https://www.timberland.com/en-us/privacy-security/terms-of-use</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/order-info/will-you-email-me-about-my-order</loc></url>
+  <url><loc>https://www.timberland.com/en-us/security</loc></url>
+  <url><loc>https://www.timberland.com/en-us/policies/timberland-accessibility-statement</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/product-faqs/how-to-shine-boots</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/gift-cards/gift-card-faqs</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/product-faqs/how-to-repair-leather-boots</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/product-faqs/how-to-wear-ankle-boots-for-men</loc></url>
+  <url><loc>https://www.timberland.com/en-us/location-selector</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/product-faqs/how-to-wear-winter-scarf-for-men</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/product-faqs/how-to-get-smells-out-of-boots</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/manage-account/how-can-i-see-my-order-history</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/order-info/how-do-i-check-out-complete-my-order</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/product-faqs/how-to-wear-white-boots-for-men</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/payments/what-are-credit-card-security-codes</loc></url>
+  <url><loc>https://www.timberland.com/en-us/about-us/careers</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/manage-account/how-do-i-use-favorites</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/delivery/what-is-the-retail-delivery-fee</loc></url>
+  <url><loc>https://www.timberland.com/en-us/responsibility/timberloop-terms-conditions</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/order-info/can-i-edit-my-order-in-the-shopping-cart</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/product-faqs/how-to-choose-the-best-winter-boots</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/product-faqs/what-to-wear-with-grey-boots</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/warranties/what-does-your-watch-warranty-cover</loc></url>
+  <url><loc>https://www.timberland.com/en-us/legal/counterfeit</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/payments/do-you-charge-sales-tax</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/product-faqs/will-out-of-stock-items-come-back</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/gift-cards/how-do-i-buy-gift-cards-or-egift-cards</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/product-faqs/how-to-stop-boots-from-squeaking</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/product-faqs/do-you-offer-custom-or-dyo-products</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/order-info/can-i-cancel-my-order</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/payments/klarna-info</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/product-faqs/how-to-lace-dress-shoes</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/delivery/do-you-ship-internationally</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/product-faqs/what-to-wear-with-brown-boots-for-women</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/product-faqs/how-to-clean-your-leather-sandals</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/product-faqs/how-to-style-chelsea-boots</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/order-info/why-did-you-cancel-my-order</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/product-faqs/are-timberland-boots-comfortable</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/delivery/do-you-ship-to-canada</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/product-faqs/what-to-wear-with-brown-boots-for-men</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/product-faqs/are-timberland-boots-waterproof</loc></url>
+  <url><loc>https://www.timberland.com/en-us/order-status</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/product-faqs/how-timberland-pro-work-boots-are-so-light</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/product-faqs/difference-between-timberland-and-pro</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/product-faqs/how-should-boots-fit</loc></url>
+  <url><loc>https://www.timberland.com/en-us/timberlandpro/about-us</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/product-faqs/how-to-style-green-boots-women</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/delivery/how-do-i-check-my-order-status</loc></url>
+  <url><loc>https://www.timberland.com/en-us/legal/trademarks</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/product-faqs/how-to-wear-timberland-boots-for-women</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/product-faqs/how-to-wear-boots-in-spring</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/product-faqs/how-to-waterproof-boots-and-shoes</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/product-faqs/how-to-tie-timberland-boots</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/product-faqs/are-timberlands-work-boots</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/manage-account/how-do-i-manage-my-account</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/product-faqs/how-to-wear-a-belt</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/product-faqs/is-your-favorite-pair-of-boots-in-need-of-some-attention</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/delivery/how-do-i-track-my-order</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/product-faqs/what-to-wear-with-grey-boots-for-women</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/order-info/why-am-i-having-trouble-placing-my-order</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/delivery/buy-online-pickup-in-store-and-curbside-delivery</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/product-faqs/how-to-wear-boots-in-summer-for-women</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/gift-cards/what-are-the-gift-card-terms-and-conditions</loc></url>
+  <url><loc>https://www.timberland.com/en-us/timberlandpro/safety</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/product-faqs/product-care-faqs</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/product-faqs/limited-edition-timberland-boots</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/product-faqs/what-is-a-chelsea-boot</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/product-faqs/how-to-measure-boots</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/order-info/check-order-status</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/product-faqs/how-to-wear-boots-to-a-wedding</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/product-faqs/how-to-lace-your-timberland-boots</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/product-faqs/how-to-wear-boot-socks</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/delivery/how-do-i-ship-my-order-to-a-store</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/payments/which-payment-options-do-you-accept</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/product-faqs/how-to-clean-timberland-boots</loc></url>
+  <url><loc>https://www.timberland.com/en-us/customer-care/product-faqs/are-timberland-boots-for-snow</loc></url>
 </urlset>
